@@ -13,7 +13,7 @@ public class BarnSpawn : MonoBehaviour
 	public Transform millSpawnPoint;
 
 
-	private int cowCost = 10;
+	internal int cowCost = 10;
 
 	// Use this for initialization
 	void Start () {
@@ -30,7 +30,8 @@ public class BarnSpawn : MonoBehaviour
 	{
 		if (powerProduction.TakeCattleonium(cowCost))
 		{
-			Instantiate(cow, spawnPoint.position + new Vector3(0, Random.Range(-0.2f, 0.2f), 0), Quaternion.identity);
+			Transform t = Instantiate(cow, spawnPoint.position + new Vector3(0, Random.Range(-0.2f, 0.2f), 0), Quaternion.identity) as Transform;
+			t.localScale = new Vector3(t.localScale.x * Math.Sign(transform.transform.localScale.x), t.localScale.y, t.localScale.z);
 		}
 	}
 
@@ -39,7 +40,7 @@ public class BarnSpawn : MonoBehaviour
 		if (powerProduction.TakeCattleonium(cowCost))
 		{
 			Transform t = Instantiate(cow, millSpawnPoint.position + new Vector3(0, Random.Range(-0.2f, 0.2f), 0), Quaternion.identity) as Transform;
-			t.localScale = new Vector3(-t.localScale.x, t.localScale.y, t.localScale.z);
+			t.localScale = new Vector3(t.localScale.x * -Math.Sign(transform.transform.localScale.x), t.localScale.y, t.localScale.z);
 		}
 	}
 }

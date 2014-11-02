@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BarnSpawn.cs" />
+     <Compile Include="Assets\BasicAI.cs" />
      <Compile Include="Assets\Cow.cs" />
      <Compile Include="Assets\DragCamera.cs" />
      <Compile Include="Assets\PowerProduction.cs" />
