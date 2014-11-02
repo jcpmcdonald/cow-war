@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 2c96359792d0ff54cb31d8f7609e3436
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CowParts_0
+    21300002: CowParts_1
+    21300004: CowParts_2
+    21300006: CowParts_3
+    21300008: CowParts_4
+    21300010: CowParts_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CowParts_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 27
+        height: 144
+      alignment: 9
+      pivot: {x: .675302505, y: .936264992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CowParts_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 154
+        width: 359
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CowParts_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 51
+        height: 149
+      alignment: 9
+      pivot: {x: .525311112, y: .820550621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CowParts_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 54
+        height: 116
+      alignment: 9
+      pivot: {x: .579682946, y: .874647915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CowParts_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 32
+        width: 45
+        height: 113
+      alignment: 9
+      pivot: {x: .700801611, y: .869362891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CowParts_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 34
+        width: 37
+        height: 116
+      alignment: 9
+      pivot: {x: .546517015, y: .863519847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

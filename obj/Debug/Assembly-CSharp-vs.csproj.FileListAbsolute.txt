@@ -1,0 +1,12 @@
+E:\Cell\Unity\Cow War\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Cell\Unity\Cow War\Temp\bin\Debug\UnityEditor.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\UnityEngine.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\Mono.Cecil.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\nunit.framework.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\Unity.DataContract.dll
+E:\Cell\Unity\Cow War\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Cell\Unity\Cow War\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Cell\Unity\Cow War\obj\Debug\Assembly-CSharp.dll
+E:\Cell\Unity\Cow War\obj\Debug\Assembly-CSharp.pdb

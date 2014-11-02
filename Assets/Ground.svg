@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Ground.svg"
+   inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+   inkscape:export-xdpi="386.83679"
+   inkscape:export-ydpi="386.83679">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5906">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop5908" />
+      <stop
+         id="stop5916"
+         offset="0.48621866"
+         style="stop-color:#9e9e9e;stop-opacity:1;" />
+      <stop
+         id="stop5914"
+         offset="0.70374435"
+         style="stop-color:#aca9a9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5910" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5894">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop5896" />
+      <stop
+         id="stop5904"
+         offset="0.27831239"
+         style="stop-color:#898989;stop-opacity:1;" />
+      <stop
+         id="stop5902"
+         offset="0.6367783"
+         style="stop-color:#aba5a5;stop-opacity:1;" />
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="1"
+         id="stop5898" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4316">
+      <stop
+         id="stop4318"
+         offset="0"
+         style="stop-color:#dcdcdc;stop-opacity:1;" />
+      <stop
+         style="stop-color:#bbb6b6;stop-opacity:1;"
+         offset="0.16141538"
+         id="stop4321" />
+      <stop
+         id="stop4323"
+         offset="0.50828159"
+         style="stop-color:#e4dede;stop-opacity:1;" />
+      <stop
+         style="stop-color:#121212;stop-opacity:1;"
+         offset="0.62448913"
+         id="stop4325" />
+      <stop
+         id="stop4328"
+         offset="1"
+         style="stop-color:#0e0e0e;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4598">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600" />
+      <stop
+         id="stop3054"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056" />
+      <stop
+         id="stop3058"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4325">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3771">
+      <stop
+         style="stop-color:#904a13;stop-opacity:1;"
+         offset="0"
+         id="stop3773" />
+      <stop
+         id="stop4320"
+         offset="0.45993826"
+         style="stop-color:#2b9800;stop-opacity:1;" />
+      <stop
+         style="stop-color:#2dbd01;stop-opacity:1;"
+         offset="0.68067956"
+         id="stop3060" />
+      <stop
+         style="stop-color:#33bc11;stop-opacity:1;"
+         offset="1"
+         id="stop3775" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3771"
+       id="linearGradient3777"
+       x1="453.75943"
+       y1="152.90932"
+       x2="453.75943"
+       y2="149.60594"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4152664,0,0,2.0307686,0.52628121,86.508297)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4325"
+       id="linearGradient4331"
+       x1="154.82144"
+       y1="125.57647"
+       x2="154.10715"
+       y2="131.11218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(10.357143,288.57143)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4325-5"
+       id="linearGradient4331-9"
+       x1="154.82144"
+       y1="125.57647"
+       x2="154.10715"
+       y2="131.11218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4325-5">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(114.06929,280.9358)"
+       y2="131.11218"
+       x2="154.10715"
+       y1="125.57647"
+       x1="154.82144"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4348"
+       xlink:href="#linearGradient4325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(114.06929,-7.6356264)"
+       y2="131.11218"
+       x2="154.10715"
+       y1="125.57647"
+       x1="154.82144"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4348-3"
+       xlink:href="#linearGradient4325-5-4"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4325-5-4">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5-1" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4-2" />
+    </linearGradient>
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(116.90656,293.29331)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4382"
+       xlink:href="#linearGradient4325-5-4"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(116.90656,4.7218859)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4382-9"
+       xlink:href="#linearGradient4325-5-4-8"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4325-5-4-8">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5-1-2" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4-2-2" />
+    </linearGradient>
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(204.26506,286.68804)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4416"
+       xlink:href="#linearGradient4325-5-4-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(116.90656,4.7218859)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4382-8"
+       xlink:href="#linearGradient4325-5-4-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4325-5-4-5">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5-1-8" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4-2-3" />
+    </linearGradient>
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(307.1222,290.61661)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4416-9"
+       xlink:href="#linearGradient4325-5-4-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(116.90656,4.7218859)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4382-4"
+       xlink:href="#linearGradient4325-5-4-6"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4325-5-4-6">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5-1-9" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4-2-8" />
+    </linearGradient>
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(435.8722,282.22375)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4416-5"
+       xlink:href="#linearGradient4325-5-4-6"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(116.90656,4.7218859)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4382-6"
+       xlink:href="#linearGradient4325-5-4-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4325-5-4-0">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5-1-7" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4-2-27" />
+    </linearGradient>
+    <linearGradient
+       y2="129.50504"
+       x2="154.55357"
+       y1="127.09433"
+       x1="154.64287"
+       gradientTransform="translate(534.44363,286.33089)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4416-2"
+       xlink:href="#linearGradient4325-5-4-0"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(114.06929,-7.6356264)"
+       y2="131.11218"
+       x2="154.10715"
+       y1="125.57647"
+       x1="154.82144"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4348-7"
+       xlink:href="#linearGradient4325-5-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4325-5-1">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4327-5-3" />
+      <stop
+         style="stop-color:#777575;stop-opacity:1;"
+         offset="1"
+         id="stop4329-4-21" />
+    </linearGradient>
+    <linearGradient
+       y2="131.11218"
+       x2="154.10715"
+       y1="125.57647"
+       x1="154.82144"
+       gradientTransform="translate(-75.236296,292.04332)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4518"
+       xlink:href="#linearGradient4325-5-1"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4598"
+       id="linearGradient4615"
+       gradientUnits="userSpaceOnUse"
+       x1="86.25"
+       y1="35.386719"
+       x2="86.582855"
+       y2="85.9655"
+       gradientTransform="translate(-10.95962,193.74118)" />
+    <linearGradient
+       id="linearGradient4598-0">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0" />
+      <stop
+         id="stop3054-6"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1" />
+      <stop
+         id="stop3058-3"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4598-3">
+      <stop
+         style="stop-color:#959595;stop-opacity:1;"
+         offset="0"
+         id="stop4600-4" />
+      <stop
+         id="stop3054-4"
+         offset="0.38630232"
+         style="stop-color:#7d7d7d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#959595;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-6" />
+      <stop
+         id="stop3058-0"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-6" />
+    </linearGradient>
+    <linearGradient
+       y2="85.9655"
+       x2="86.582855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(126.87879,192.38147)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3146"
+       xlink:href="#linearGradient4598-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4598-0-1">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-8" />
+      <stop
+         id="stop3054-6-4"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-9" />
+      <stop
+         id="stop3058-3-6"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-3" />
+    </linearGradient>
+    <linearGradient
+       y2="85.9655"
+       x2="86.582855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(121.96158,192.46737)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3199"
+       xlink:href="#linearGradient4598-0-1"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4598-0-4"
+       id="linearGradient3224-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(109.5088,-15.89655)"
+       x1="86.25"
+       y1="35.386719"
+       x2="86.582855"
+       y2="85.9655" />
+    <linearGradient
+       id="linearGradient4598-0-4">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-0" />
+      <stop
+         id="stop3054-6-7"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-6" />
+      <stop
+         id="stop3058-3-3"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4598-0-5">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-4" />
+      <stop
+         id="stop3054-6-2"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#8e8e8e;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-0" />
+      <stop
+         id="stop3058-3-9"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-7" />
+    </linearGradient>
+    <linearGradient
+       y2="85.9655"
+       x2="86.582855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(120.50029,194.88072)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3316"
+       xlink:href="#linearGradient4598-0-5"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4598-0-4-2"
+       id="linearGradient3293-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(98.396794,-24.54958)"
+       x1="86.25"
+       y1="35.386719"
+       x2="86.582855"
+       y2="85.9655" />
+    <linearGradient
+       id="linearGradient4598-0-4-2">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-0-6" />
+      <stop
+         id="stop3054-6-7-0"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-6-1" />
+      <stop
+         id="stop3058-3-3-6"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-6-5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4598-0-4-5">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-0-4" />
+      <stop
+         id="stop3054-6-7-1"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-6-2" />
+      <stop
+         id="stop3058-3-3-0"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-6-0" />
+    </linearGradient>
+    <linearGradient
+       y2="85.9655"
+       x2="86.582855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(112.1369,199.77522)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3408"
+       xlink:href="#linearGradient4598-0-4-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="85.9655"
+       x2="86.582855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(97.27336,-15.32418)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3362-4"
+       xlink:href="#linearGradient4598-0-4-2-6"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4598-0-4-2-6">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-0-6-0" />
+      <stop
+         id="stop3054-6-7-0-7"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-6-1-1" />
+      <stop
+         id="stop3058-3-3-6-7"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-6-5-7" />
+    </linearGradient>
+    <linearGradient
+       y2="83.4655"
+       x2="86.457855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(109.76928,187.40229)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3452"
+       xlink:href="#linearGradient4316"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4598-0-4-2-7"
+       id="linearGradient3487"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(106.11219,295.59517)"
+       x1="86.25"
+       y1="35.386719"
+       x2="86.582855"
+       y2="85.9655" />
+    <linearGradient
+       id="linearGradient4598-0-4-2-7">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="0"
+         id="stop4600-0-0-6-3" />
+      <stop
+         id="stop3054-6-7-0-3"
+         offset="0.38630232"
+         style="stop-color:#bbb6b6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e4dede;stop-opacity:1;"
+         offset="0.95606297"
+         id="stop3056-1-6-1-5" />
+      <stop
+         id="stop3058-3-3-6-9"
+         offset="0.96921295"
+         style="stop-color:#121212;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="1"
+         id="stop4602-8-6-5-9" />
+    </linearGradient>
+    <linearGradient
+       y2="85.9655"
+       x2="86.582855"
+       y1="35.386719"
+       x1="86.25"
+       gradientTransform="translate(116.07674,177.79662)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3507"
+       xlink:href="#linearGradient4598-0-4-2-7"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5894"
+       id="linearGradient5900"
+       x1="643.5"
+       y1="312.36218"
+       x2="855.5"
+       y2="313.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5906"
+       id="linearGradient5912"
+       x1="718"
+       y1="231.86218"
+       x2="764.5"
+       y2="230.86218"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="705.03119"
+     inkscape:cy="667.90666"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#30bc09;fill-opacity:1;stroke:none"
+       id="rect5868"
+       width="1053.2198"
+       height="12.28598"
+       x="0.12622148"
+       y="377.8707"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <rect
+       style="fill:url(#linearGradient3777);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="1052.8572"
+       height="94.285744"
+       x="0.52629781"
+       y="390.11841"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient4331);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 165.98214,418.70147 c -0.71985,0.91706 -1.62556,2.48415 -2.74688,2.16504 -1.55761,-0.44328 -1.96115,-2.97456 -1.6604,-4.56585 0.25155,-1.33097 1.39775,-2.63242 2.68675,-3.04865 1.23927,-0.40017 3.2317,-0.30028 3.80947,0.86682 0.74481,1.5045 -1.05238,3.26211 -2.08894,4.58264 z"
+       id="path4322"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png" />
+    <path
+       style="fill:url(#linearGradient4348);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 270.49787,411.73549 c -1.06013,1.2184 -3.86624,1.30681 -4.84509,0.0222 -0.69568,-0.91299 0.59856,-2.21657 0.92888,-3.31585 0.21269,-0.70783 -0.0249,-1.88201 0.67782,-2.11115 1.09112,-0.35581 2.19498,1.04176 2.78269,2.02753 0.58172,0.97571 1.20135,2.5203 0.4557,3.37727 z"
+       id="path4322-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png" />
+    <path
+       style="fill:url(#linearGradient4382);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 272.3092,422.89344 c -0.36981,0.38708 -1.17328,0.13269 -1.59366,-0.19877 -0.60061,-0.47357 -0.97396,-1.40138 -0.80732,-2.14786 0.0719,-0.32209 0.38309,-0.64123 0.70939,-0.69062 0.47474,-0.0719 0.99863,0.26765 1.28324,0.65435 0.47769,0.64904 0.96504,1.80021 0.40835,2.3829 z"
+       id="path4322-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient4416);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 359.6677,416.28816 c -0.36981,0.38708 -1.17328,0.13269 -1.59366,-0.19877 -0.60061,-0.47357 -0.97396,-1.40138 -0.80732,-2.14786 0.0719,-0.32209 0.38309,-0.64123 0.70939,-0.69062 0.47474,-0.0719 0.99863,0.26765 1.28324,0.65435 0.47769,0.64904 0.96504,1.80021 0.40835,2.3829 z"
+       id="path4322-0-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient4416-9);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 462.52485,420.21673 c -0.36981,0.38708 -1.17328,0.13269 -1.59366,-0.19877 -0.60061,-0.47357 -0.97396,-1.40138 -0.80732,-2.14786 0.0719,-0.32209 0.38309,-0.64123 0.70939,-0.69062 0.47474,-0.0719 0.99863,0.26765 1.28324,0.65435 0.47769,0.64904 0.96504,1.80021 0.40835,2.3829 z"
+       id="path4322-0-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient4416-5);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 591.27485,411.82387 c -0.36981,0.38708 -1.17328,0.13269 -1.59366,-0.19877 -0.60061,-0.47357 -0.97396,-1.40138 -0.80732,-2.14786 0.0719,-0.32209 0.38309,-0.64123 0.70939,-0.69062 0.47474,-0.0719 0.99863,0.26765 1.28324,0.65435 0.47769,0.64904 0.96504,1.80021 0.40835,2.3829 z"
+       id="path4322-0-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient4416-2);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 689.84628,415.93101 c -0.36981,0.38708 -1.17328,0.13269 -1.59366,-0.19877 -0.60061,-0.47357 -0.97396,-1.40138 -0.80732,-2.14786 0.0719,-0.32209 0.38309,-0.64123 0.70939,-0.69062 0.47474,-0.0719 0.99863,0.26765 1.28324,0.65435 0.47769,0.64904 0.96504,1.80021 0.40835,2.3829 z"
+       id="path4322-0-2-64"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient4518);fill-opacity:1;stroke:none"
+       inkscape:transform-center-x="0.29137816"
+       inkscape:transform-center-y="0.21830829"
+       d="m 81.192282,422.843 c -1.060129,1.2184 -3.866242,1.30681 -4.84509,0.0222 -0.695678,-0.91299 0.598564,-2.21657 0.92888,-3.31585 0.212693,-0.70783 -0.02486,-1.88201 0.67782,-2.11115 1.091117,-0.35581 2.194978,1.04176 2.78269,2.02753 0.581716,0.97571 1.201351,2.5203 0.4557,3.37727 z"
+       id="path4322-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaa"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Ground.png" />
+    <path
+       style="fill:url(#linearGradient4615);fill-opacity:1;stroke:none"
+       d="m 107.2896,220.45389 c -0.62973,0.65925 -0.28546,1.37934 -0.0714,1.92108 -1.89912,-0.8199 -3.01308,-2.84365 -3.91584,-4.67939 -1.0987,1.91193 0.53901,4.09707 1.3112,5.41526 -0.90087,-0.26805 -4.44778,-2.19204 -7.355443,-3.01753 0.2872,5.18562 3.805273,5.58236 4.945573,5.93105 -3.457703,2.72524 -10.127773,4.50972 -18.327493,6.7276 -12.48466,0.90765 -27.10689,-4.88847 -35.38489,0.33246 -2.04184,1.51068 -5.09743,4.97349 -5.18885,6.92465 -0.50939,3.98839 -1.10071,11.24974 -1.19955,15.56552 -0.32832,2.69406 -0.32393,1.45043 -0.77857,3.60353 0.092,2.41709 0.61874,7.55049 1.67428,9.68669 1.24494,-2.29902 0.99834,-8.44756 0.86935,-9.52775 -0.20792,-1.6484 -0.40872,-2.30062 -1.02933,-3.66115 0.11837,-0.92987 0.64921,-3.65741 1.04871,-6.36712 0.41428,-2.80992 -0.31494,-5.78667 0.70637,-5.71078 1.42066,0.27929 1.0136,3.79197 2.08837,7.55369 -1.00872,1.0625 -1.36553,7.05215 -0.17152,9.01916 -0.81813,1.40174 -1.54568,1.74421 -1.50918,2.15057 0.30748,1.08495 1.51058,1.62554 2.11258,4.60636 0.002,1.71813 -0.48615,2.76106 -0.40492,5.98524 0.53896,1.92982 1.52004,3.48152 1.87636,4.72458 -0.21311,0.64096 -0.40632,-0.0574 0.13337,1.73977 0.96585,0.29772 2.61727,0.75509 4.40452,0.53485 0.84024,-0.1571 -1.08787,-2.01774 -2.10401,-2.96243 0.30969,-1.21301 -0.45738,-2.18876 -1.08316,-3.59073 0.0845,-1.35466 -0.76303,-3.00931 1.4061,-6.62188 0.48029,0.55436 0.34698,0.58706 1.22851,1.61283 -0.0181,1.48349 -0.34724,1.03998 0.32543,2.66223 0.89364,0.67523 1.95254,2.32705 2.40601,4.87593 0.12202,0.59171 0.39623,0.78633 0.84113,1.1197 0.25551,0.83845 0.17665,0.711 0.30277,1.6845 0.69433,0.56323 1.98825,1.0757 3.04794,1.06192 1.3281,0.0316 1.27307,-0.29139 1.78705,-0.44527 0.0749,-0.32054 -0.40293,-1.22526 -1.81354,-2.50772 0.10462,-0.39859 0.0657,-0.30683 -0.18103,-1.22309 -1.38179,-1.63938 -1.54905,-2.27213 -2.36056,-3.7291 -0.11642,-0.89352 -0.1327,-3.10274 -0.8707,-5.03241 0.46155,-0.14611 0.95901,-0.0916 1.23872,-0.37193 0.42175,0.82451 0.89408,2.92411 2.25241,3.04846 0.4271,-0.25445 0.004,-2.29472 -0.3076,-3.21551 0.28817,-0.4157 0.60891,-0.76941 1.26102,-0.8548 0.52583,1.88757 1.38303,2.98596 2.14432,2.88591 0.28779,-0.28945 0.4481,-1.24068 -0.18304,-3.81536 0.28427,-0.28605 2.19195,-2.63749 2.59676,-4.59095 7.09429,1.88583 9.68044,1.61611 16.61152,0.83088 -0.50539,3.62435 -0.6882,5.22626 -3.20794,8.0448 0.90382,5.07357 -0.31326,5.70197 -0.93682,7.58795 0.18171,0.87885 0.16417,0.40264 0.77577,0.80651 -0.11044,1.05541 0.16363,2.1474 1.31541,2.66752 1.04086,0.34574 3.16176,0.39278 4.05723,-0.24406 0.26414,-0.35273 -1.07595,-1.29461 -0.86457,-2.42154 -1.01974,-0.96909 -0.67742,-0.54488 -1.12064,-2.26919 0.21969,-1.72431 0.34832,-2.53512 0.29014,-3.29102 2.02526,-1.98702 4.77918,-10.83237 5.32496,-10.72714 0.54577,0.10523 1.47192,0.0697 2.17763,0.13956 0.39983,1.0568 1.17395,5.46106 1.88754,9.38134 -1.4149,2.12035 0.63537,5.47228 1.15061,7.40191 0.64151,0.31971 -0.12571,1.14274 0.085,1.58299 0.84204,0.21928 3.54096,0.53283 4.5951,0.26493 0.73353,-0.92727 -1.7028,-2.77617 -2.80734,-4.34933 -0.0404,-2.03472 0.0233,-2.99745 0.90823,-7.31134 0.43721,-2.28101 0.67822,-4.2587 0.48019,-7.22714 1.97167,-2.62191 9.210933,-12.15834 9.837353,-16.6395 0.58345,-2.12021 0.5273,-3.48115 4.35691,-5.83727 1.81295,0.14544 5.2823,0.31948 6.51102,0.1125 1.3727,-0.23124 1.62489,-0.48129 2.7422,0.29447 1.01902,0.26079 1.23369,0.0729 2.44459,-1.54214 0.53296,-0.49638 0.82017,-0.53679 0.73662,-1.42646 -0.0171,-0.0638 1.63463,-1.1126 -0.18374,-2.4214 -1.70261,-1.52702 -5.29081,-3.80295 -6.29092,-4.68762 -1.47934,-1.94154 -2.71557,-3.61952 -3.20143,-4.37725 -2.14845,-1.85808 -4.27083,-0.81739 -5.44285,-3.791 z"
+       id="path4576"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3146);fill-opacity:1;stroke:none"
+       d="m 231.71342,253.18924 c -3.95482,0.61529 -4.08753,3.41686 -4.40625,6.4687 0.39983,1.0568 1.19266,5.45472 1.90625,9.375 -1.4149,2.12035 0.64101,5.47662 1.15625,7.40625 0.64151,0.31971 -0.14821,1.1535 0.0625,1.59375 0.84204,0.21928 3.53961,0.5179 4.59375,0.25 0.73353,-0.92727 -1.67671,-2.77059 -2.78125,-4.34375 -0.0404,-2.03472 0.0213,-2.99861 0.90625,-7.3125 0.43721,-2.28101 0.66678,-4.25031 0.46875,-7.21875 0.44934,-0.59754 1.55253,-1.70956 1.39296,-3.15375 -0.30812,-2.78858 -0.89818,-3.4385 -3.29921,-3.06495 z"
+       id="path4576-6"
+       sodipodi:nodetypes="sccccccccss"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3199);fill-opacity:1;stroke:none"
+       d="m 216.85935,254.29872 c -2.25869,0.1978 -2.10413,2.50509 -2.28125,5.15625 -0.50539,3.62435 -0.66776,5.21271 -3.1875,8.03125 0.90382,5.07357 -0.31394,5.70777 -0.9375,7.59375 0.18171,0.87885 0.16965,0.40863 0.78125,0.8125 -0.11044,1.05541 0.16072,2.13613 1.3125,2.65625 1.04086,0.34574 3.16703,0.41809 4.0625,-0.21875 0.26414,-0.35273 -1.08638,-1.31057 -0.875,-2.4375 -1.01974,-0.96909 -0.68178,-0.55694 -1.125,-2.28125 0.21969,-1.72431 0.33943,-2.52535 0.28125,-3.28125 2.02526,-1.98702 5.28638,-9.79018 5.18591,-10.87659 -0.26912,-2.9099 -0.83882,-5.36294 -3.21716,-5.15466 z"
+       id="path4576-9-7"
+       sodipodi:nodetypes="scccccccccss"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3316);fill-opacity:1;stroke:none"
+       d="m 189.14774,255.46477 c -3.37832,0.0522 -6.05147,5.52094 -6.28125,12.5 0.37326,0.45624 0.33627,0.5771 1.15625,1.53125 -0.0181,1.48349 -0.32892,1.034 0.34375,2.65625 0.89364,0.67523 1.95278,2.32612 2.40625,4.875 0.12202,0.59171 0.39885,0.79163 0.84375,1.125 0.25551,0.83845 0.15513,0.714 0.28125,1.6875 0.69433,0.56323 2.00281,1.07628 3.0625,1.0625 1.3281,0.0316 1.26727,-0.31487 1.78125,-0.46875 0.0749,-0.32054 -0.40189,-1.21754 -1.8125,-2.5 0.10462,-0.39859 0.0592,-0.30249 -0.1875,-1.21875 -1.38179,-1.63938 -1.53224,-2.26178 -2.34375,-3.71875 -0.11642,-0.89352 -0.137,-3.10158 -0.875,-5.03125 2.00798,-4.05217 2.68456,-3.87573 6.17188,-7.25 2.58274,-2.49903 -2.40118,-5.28313 -4.54688,-5.25 z"
+       id="path4576-9-3"
+       sodipodi:nodetypes="cccccccccccccsc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3408);fill-opacity:1;stroke:none"
+       d="m 173.95886,253.35605 c -4.79353,0.98685 -6.89128,8.28708 -4.37495,12.84375 -0.81813,1.40174 -1.5365,1.74989 -1.5,2.15625 0.30748,1.08495 1.523,1.61293 2.125,4.59375 0.002,1.71813 -0.48748,2.77582 -0.40625,6 0.53896,1.92982 1.51868,3.47569 1.875,4.71875 -0.21311,0.64096 -0.41469,-0.0472 0.125,1.75 0.96585,0.29772 2.619,0.75149 4.40625,0.53125 0.84024,-0.1571 -1.07761,-2.02406 -2.09375,-2.96875 0.30969,-1.21301 -0.46797,-2.19178 -1.09375,-3.59375 0.0845,-1.35466 -0.76288,-3.01243 1.40625,-6.625 0.0335,0.0387 0.0345,0.0596 0.0625,0.0937 0.20396,-6.19499 3.65251,-9.51101 4.46875,-12.4375 0.60814,-3.71314 -1.93225,-7.69402 -5.00005,-7.06245 z"
+       id="path4576-9-1-1"
+       sodipodi:nodetypes="sccccccccccccs"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3066"
+       sodipodi:cx="89.524765"
+       sodipodi:cy="70.385872"
+       sodipodi:rx="6.060915"
+       sodipodi:ry="13.952732"
+       d="m 95.58568,70.385872 a 6.060915,13.952732 0 1 1 -12.12183,0 6.060915,13.952732 0 1 1 12.12183,0 z"
+       transform="matrix(0.45861469,-0.02171787,0.00812685,1.298488,99.908088,165.43869)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient3452);fill-opacity:1;stroke:none"
+       d="m 164.90217,231.47647 c -0.85774,0.39861 -0.84622,1.57315 -0.875,2.1875 -0.50939,3.98839 -1.11991,11.24672 -1.21875,15.5625 -0.32832,2.69406 -0.32661,1.44065 -0.78125,3.59375 0.092,2.41709 0.63196,7.5513 1.6875,9.6875 1.24494,-2.29902 1.00399,-8.45106 0.875,-9.53125 -0.20792,-1.6484 -0.41064,-2.29572 -1.03125,-3.65625 0.11837,-0.92987 0.63175,-3.66529 1.03125,-6.375 0.41428,-2.80992 0.0841,-5.49822 0.6856,-6.36146 3.77254,-2.7855 3.40582,-6.86342 -0.3731,-5.10729 z"
+       id="path4576-9-1-7-7"
+       sodipodi:nodetypes="sccccccscs"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       style="fill:url(#linearGradient3507);fill-opacity:1;stroke:none"
+       d="m 230.33463,201.7458 c -1.0987,1.91193 0.54031,4.08806 1.3125,5.40625 -0.90087,-0.26805 -4.46734,-2.20576 -7.375,-3.03125 0.2872,5.18562 3.82845,5.58881 4.96875,5.9375 -3.4577,2.72524 -10.14403,4.50087 -18.34375,6.71875 -12.48466,0.90765 -27.097,-4.87718 -35.375,0.34375 -1.35801,1.00474 -3.81386,2.60429 -4.21875,4.59375 -0.3262,1.60278 0.39622,3.89172 1,6.5 0.30206,1.30488 -8.2e-4,4.20597 1.40625,6.96875 0.95086,1.86702 6.53223,6.70075 9.60363,11.13516 2.08676,3.0128 4.18081,4.20852 5.88591,4.20508 0.77132,2.00318 2.72821,1.88478 1.08728,-0.11769 0.21348,-0.10164 0.27747,-0.16821 0.6589,-0.24516 1.34009,2.03993 2.07067,1.17003 0.87006,-0.31018 0.28458,-0.12782 0.41395,-0.15461 0.74593,-0.32491 0.90653,1.66374 2.47746,1.39599 0.95756,-0.46999 1.11584,-0.75538 1.70601,-2.03992 1.45412,-4.4527 8.83824,1.32812 24.0503,1.80656 29.92411,-2.57594 4.07851,-3.36657 7.26634,-10.38385 7.75,-13.84375 0.58345,-2.12021 0.51414,-3.48763 4.34375,-5.84375 1.81295,0.14544 5.30253,0.30088 6.53125,0.0937 1.3727,-0.23124 1.60144,-0.46326 2.71875,0.3125 1.01902,0.26079 1.25785,0.0525 2.46875,-1.5625 0.53296,-0.49638 0.8023,-0.51658 0.71875,-1.40625 -0.0171,-0.0638 1.63087,-1.1287 -0.1875,-2.4375 -1.70261,-1.52702 -5.28114,-3.80283 -6.28125,-4.6875 -1.47934,-1.94154 -2.73289,-3.61727 -3.21875,-4.375 -2.14845,-1.85808 -4.26548,-0.80764 -5.4375,-3.78125 -0.62973,0.65925 -0.27656,1.36451 -0.0625,1.90625 -1.89912,-0.81955 -3.00349,-2.82051 -3.90625,-4.65625 z"
+       id="path4576-9-1-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccssssccccccccccccccccccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 350.31882,344.76982 c -233.54588,471.72824 -116.77294,235.86412 0,0 z"
+       id="rect3536"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 187.26634,222.45915 c -1.23851,0.51301 -2.95578,1.50789 -2.84375,2.84375 0.11246,1.34097 2.06257,1.78811 3.29018,2.33929 0.72712,0.32647 1.65453,0.11318 2.33036,0.53571 0.52221,0.32649 0.758,0.97155 1.16071,1.4375 0.57911,0.67005 1.04389,1.4957 1.80358,1.9509 0.70838,0.42445 1.62016,0.90427 2.39732,0.625 0.99697,-0.35827 1.748,-1.52261 1.8616,-2.5759 0.0799,-0.74076 -0.90048,-1.30408 -0.89285,-2.0491 0.01,-0.92881 1.29498,-1.61152 1.16518,-2.53125 -0.12003,-0.85043 -0.99167,-1.44136 -1.68304,-1.9509 -0.41951,-0.30917 -0.92288,-0.51859 -1.43304,-0.625 -0.11216,-0.0234 -0.22916,0 -0.34375,0 -2.27083,0 -4.71452,-0.86901 -6.8125,0 z"
+       id="rect4543"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaaaaaaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 208.39581,219.8706 8.48214,-0.71429 c 0.86257,-0.0726 1.5625,0.69688 1.5625,1.5625 0,0.86563 -2.22362,2.84697 -3.08035,2.72322 l -8.03572,-1.16072 c -0.85673,-0.12375 -1.5625,-0.69687 -1.5625,-1.5625 0,-0.86562 1.77136,-0.77558 2.63393,-0.84821 z"
+       id="rect4549"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 205.36009,224.8654 c -0.6805,0.28188 -1.28062,0.882 -1.5625,1.5625 -0.0478,0.11549 -0.0478,0.25952 0,0.375 0.28188,0.6805 0.882,1.28063 1.5625,1.5625 0.77953,0.32289 1.93463,-0.59662 2.53125,0 0.97228,0.97227 -0.52619,2.85467 0,4.125 0.28188,0.6805 0.882,1.28063 1.5625,1.5625 0.22135,0.0917 0.49648,0.0894 0.71875,0 0.66982,-0.26947 0.89269,-1.23052 1.5625,-1.5 0.18362,-0.0739 0.4109,0.0757 0.59375,0 0.68051,-0.28187 1.28063,-0.882 1.5625,-1.5625 0.0478,-0.11548 0.0478,-0.25951 0,-0.375 -0.28187,-0.6805 -0.88199,-1.28062 -1.5625,-1.5625 -0.18285,-0.0757 -0.4538,0.13995 -0.59375,0 -0.53033,-0.53033 0,-1.5 0,-2.25 0,-0.0312 0,-0.0625 0,-0.0937 0,-0.0937 0.0359,-0.19463 0,-0.28125 -0.28187,-0.6805 -0.88199,-1.28062 -1.5625,-1.5625 -1.48205,-0.61389 -3.33044,-0.61389 -4.8125,0 z"
+       id="rect4551"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaaaaaaaaaaaaaaaaa"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 201.74402,232.19202 c 1.78071,0 3.52625,2.08631 3.83929,3.83929 l 0.44642,2.5 c 0.31304,1.75298 -1.88,2.32143 -3.66071,2.32143 -1.78071,0 -4.4847,-1.55465 -3.83929,-3.21429 l 0.625,-1.60714 c 0.64542,-1.65963 0.80858,-3.83929 2.58929,-3.83929 z"
+       id="rect4557"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4619"
+       sodipodi:cx="111.33929"
+       sodipodi:cy="31.728409"
+       sodipodi:rx="1.4526646"
+       sodipodi:ry="1.3254311"
+       d="m 112.79195,31.728409 a 1.4526646,1.3254311 0 1 1 -2.90533,0 1.4526646,1.3254311 0 1 1 2.90533,0 z"
+       transform="matrix(1.26,0,0,1.4146341,97.527956,166.70526)"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4621"
+       sodipodi:cx="111.5625"
+       sodipodi:cy="31.906981"
+       sodipodi:rx="0.4017857"
+       sodipodi:ry="0.66964287"
+       d="m 111.96429,31.906981 a 0.4017857,0.66964287 0 1 1 -0.80358,0 0.4017857,0.66964287 0 1 1 0.80358,0 z"
+       transform="matrix(1.6666667,0,0,1,52.324381,179.66005)"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\CowParts.png"
+       inkscape:export-xdpi="408.76898"
+       inkscape:export-ydpi="408.76898" />
+    <rect
+       style="fill:#962127;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4330"
+       width="173.75"
+       height="112.25"
+       x="294.24265"
+       y="257.64163"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 314.49264,216.01663 184.75,0 9,19 -184.75,0 z"
+       id="rect4343-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 323.24264,235.01662 184.75,0 5.5,28.75 -184.75,0 z"
+       id="rect4343-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:#962127;fill-opacity:1;stroke:#000000;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 467.11764,221.76662 26.75,-0.75 7.6875,12.4375 6.9375,29.4375 c -0.0701,0.1708 0.125,98.875 0.125,98.875 l -41.5,8 z"
+       id="rect4330-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 296.24264,234.64162 184.75,0 -8.75,29.25 -184.75,0 z"
+       id="rect4343"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 314.49264,216.01662 184.75,0 -18.25,18.75 -184.75,0 z"
+       id="rect4343-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 479.49264,298.89162 22.5,-2.75 0,65.25 -22.25,4.25 z"
+       id="rect4419"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:none;stroke:#fff8f8;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 501.24264,296.64162 c -21,69 -21,69 -21,69"
+       id="path5864"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 480.24266,299.39162 21.25,61.5"
+       id="path5866"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Barn.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient5900);fill-opacity:1;stroke:none"
+       d="m 637.81026,279.49446 222.03153,0 13.78858,54.09367 c -90.97541,9.93515 -168.05421,10.81779 -252.43712,0 z"
+       id="rect5870"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Mill.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       sodipodi:type="star"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path5892"
+       sodipodi:sides="3"
+       sodipodi:cx="740"
+       sodipodi:cy="-148.90552"
+       sodipodi:r1="11.895068"
+       sodipodi:r2="83.119141"
+       sodipodi:arg1="-1.8977311"
+       sodipodi:arg2="-0.85053346"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 736.18,-160.17052 58.64391,-51.21003 -43.15813,64.79931 15.02723,76.392141 -34.53879,-69.775701 -73.67114,-25.1821 z"
+       transform="translate(23.5,222.7677)"
+       inkscape:transform-center-x="2.3264336"
+       inkscape:transform-center-y="-32.720499"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Mill.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#b1b1b1;fill-opacity:1;stroke:none"
+       id="path5918"
+       sodipodi:cx="748.5"
+       sodipodi:cy="-36.405514"
+       sodipodi:rx="116.5"
+       sodipodi:ry="6"
+       d="m 865,-36.405514 a 116.5,6 0 1 1 -233,0 116.5,6 0 1 1 233,0 z"
+       transform="matrix(0.95296071,0,0,1,35.474075,315.7677)"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Mill.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+    <path
+       style="fill:url(#linearGradient5912);fill-opacity:1;stroke:none"
+       d="m 724.04489,163.9288 c 10.48158,-9.05999 30.77895,-10.3657 41.53153,-1.62906 14.32502,43.54581 18.92399,118.49583 18.92399,118.49583 -26.64857,1.39775 -53.28803,2.80885 -82.37583,0.62906 0,0 6.77869,-75.94222 21.92031,-117.49583 z"
+       id="rect5870-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Cell\Unity\Cow War\Assets\Mill.png"
+       inkscape:export-xdpi="386.83679"
+       inkscape:export-ydpi="386.83679" />
+  </g>
+</svg>
