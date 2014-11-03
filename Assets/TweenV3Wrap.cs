@@ -45,6 +45,12 @@ public class TweenTransformWrap
 	public float LocalScaleX
 	{
 		get { return v3.localScale.x; }
-		set { v3.localScale = new Vector3(value, v3.localScale.y, v3.localScale.z); }
+		set
+		{
+			if (v3 != null && v3.gameObject != null)
+			{
+				v3.localScale = new Vector3(value, v3.localScale.y, v3.localScale.z);
+			}
+		}
 	}
 }

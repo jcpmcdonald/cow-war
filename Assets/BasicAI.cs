@@ -1,7 +1,13 @@
-﻿using UnityEngine;
+﻿using System.Runtime.InteropServices;
+using UnityEngine;
 using System.Collections;
 
-public class BasicAI : MonoBehaviour {
+public class BasicAI : MonoBehaviour
+{
+
+	private float warToMillRatio = 1.5f;
+	private float cowsSentToWar = 1;
+	private float cowsSentToMill = 1;
 
 	// Use this for initialization
 	void Start () {
@@ -12,9 +18,18 @@ public class BasicAI : MonoBehaviour {
 	void Update ()
 	{
 		BarnSpawn barn = GetComponent<BarnSpawn>();
-		if (barn.powerProduction.TotalCowPower >= barn.cowCost)
+		if (barn.powerProduction.cattleonium >= barn.cowCost)
 		{
-			barn.SpawnMillCow();
+			if ((cowsSentToWar / cowsSentToMill) > warToMillRatio)
+			{
+				barn.SpawnMillCow();
+				cowsSentToMill++;
+			}
+			else
+			{
+				barn.SpawnFighterCow();
+				cowsSentToWar++;
+			}
 		}
 	}
 }
